@@ -1,3 +1,8 @@
+# PROMOTE-BIO
+<p align="center">
+  <img src="path/to/your/logo.png" alt="PROMOTE-BIO Logo" width="300">
+</p>
+
 ### Advancing Personalized Shoulder Medicine through Automated Biomechanical Modeling: A Proof-of-Concept in Glenohumeral Osteoarthritis (PROMOTE-BIO)
 
 **PROMOTE-BIO** is a multidisciplinary research initiative focused on transforming shoulder healthcare through personalized computational biomechanics. By integrating medical imaging, musculoskeletal modeling, and finite element analysis, we aim to streamline the creation of subject-specific models to support earlier diagnosis and personalized treatment for **Glenohumeral Osteoarthritis (OA)**.
