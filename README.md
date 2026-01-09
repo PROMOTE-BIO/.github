@@ -1,6 +1,6 @@
 # PROMOTE-BIO
 <p align="center">
-  <img src="path/to/your/PROMOTE-BIO_Logo_4.png" alt="PROMOTE-BIO Logo" width="300">
+  <img src="PROMOTE-BIO_Logo_4.png" alt="PROMOTE-BIO Logo" width="300">
 </p>
 
 ### Advancing Personalized Shoulder Medicine through Automated Biomechanical Modeling: A Proof-of-Concept in Glenohumeral Osteoarthritis (PROMOTE-BIO)
