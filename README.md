@@ -31,6 +31,19 @@ To ensure the integrity and clinical reliability of our tools, the project follo
 
 ---
 
+## 🔬 Contributions
+
+### Thorax Reconstruction from Sparse Inputs
+
+This contribution provides a framework for reconstructing subject-specific thorax geometries from sparse input data.
+
+📍 Input: skin landmarks + subject-specific variables  
+📤 Output: 3D thorax geometry  
+
+🔗 [Explore the repository](https://github.com/PROMOTE-BIO/thorax-reconstruction)
+
+---
+
 ## 🔗 Connect with Us
 
 * **Website:** [Visit the PROMOTE-BIO Website](https://promote-bio.tecnico.ulisboa.pt)
