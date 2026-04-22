@@ -40,7 +40,7 @@ This contribution provides a framework for reconstructing subject-specific thora
 📍 Input: skin landmarks + subject-specific variables  
 📤 Output: 3D thorax geometry  
 
-🔗 [Explore the repository](https://github.com/PROMOTE-BIO/thorax-reconstruction)
+🔗 [Explore the repository](https://github.com/PROMOTE-BIO/thorax-ssm-reconstruction)
 
 ---
 
